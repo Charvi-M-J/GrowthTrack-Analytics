@@ -1,4 +1,4 @@
-# Python-project
+# GrowthTrack Analytics
  Sales Data Analysis (Python + Pandas + MySQL)
 🔹Overview
 This project demonstrates end-to-end analysis of a Kaggle sales dataset:
